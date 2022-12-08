@@ -1,0 +1,52 @@
+.menber{
+    background-image:url(../img/staduium.jpg);
+    height: 570px;
+    width: 1000px;
+    position: relative;
+}
+
+.pitcherposi{
+    position: absolute;
+    top: 280px;
+    left: 440px;
+}
+.catcherposi{
+    position: absolute;
+    top: 500px;
+    left: 440px;
+}
+.firstposi{
+    position: absolute;
+    top: 270px;
+    left: 700px;
+}
+.secondposi{
+    position: absolute;
+    top: 170px;
+    left: 560px;
+}
+.thirdposi{
+    position: absolute;
+    top: 270px;
+    left: 100px;
+}
+.shortposi{
+    position: absolute;
+    top: 170px;
+    left: 240px;
+}
+.leftposi{
+    position: absolute;
+    top: 110px;
+    left: 170px;
+}
+.centerposi{
+    position: absolute;
+    top: 70px;
+    left: 440px;
+}
+.rightposi{
+    position: absolute;
+    top: 110px;
+    left: 650px;
+}
